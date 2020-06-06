@@ -13,7 +13,7 @@ And,this project have been tested on Win10 System lol.
   
   * 5.Chrome Broswer ;   
   
-  * 6.Navicat Premium 12;[Buaaers can download here,and other simililar sotware may work also.](http://s.buaa.edu.cn)
+  * 6.Navicat Premium 12;     [Buaaers can download here,and other simililar sotware may work also.](http://s.buaa.edu.cn)
   
   <font color=blue>This project have been tested on Win10 System lol.</font>
 
