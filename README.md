@@ -1,18 +1,18 @@
 # Schoolwork-Management-System
 A Schoolwork Mangement System based on Browser/Server architecture  implemented by jsp (java &amp; html).
 
-**Some image processing algorithms using python3.7,opencv4,numpy or qt:**
-  * 1.A Image processing GUI;  
+**1.The software/library used here:**
+  * 1.apache-tomcat-9.0.34;  
   
-  * 2.FFT&amp;IFFT;  
+  * 2.eclipse-java-2020-03-R-win32-x86_64;  
   
-  * 3.Exponential transformation,Histogram equalization,Median filtering, Image sharpening using Laplace operator;   
+  * 3.java version "13-ea" 2019-09-17;   
   
-  * 4.Edge detection using Roberts,Sobel,Prewitt and Laplace operator; 
+  * 4.mysql-connector-java-8.0.20
   
-  * 5.Reconstructions using FFT descriptors ;   
+  * 5.Chrome Broswer ;   
   
-  * 6.Color clustering of RGB images using K-means.  
+  * 6.Navicat Premium 12;[Buaaers can download here,and other simililar sotware may work also](s.buaa.edu.cn)
   
 
 **All algorithms have been tested on python3.7 on Ubuntu16.04.**
