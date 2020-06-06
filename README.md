@@ -15,8 +15,8 @@ And,this project have been tested on Win10 System lol.
   
   * 6.Navicat Premium 12;     [Buaaers can download here,and other simililar sotware may work also.](http://s.buaa.edu.cn)
 
-**2.A simple demo video and some charts of Database**
-   [Link](http://s.buaa.edu.cn)
+**2.A simple demo video and other useful materials**[Link](http://s.buaa.edu.cn)
+
 <br/><br/><br/>
 **Up to 1/3 codes here are copied from [Zhixin Chen](https://github.com/gouxiangchen) or inspired by others! Thanks to them!**
 
