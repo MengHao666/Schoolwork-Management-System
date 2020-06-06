@@ -12,10 +12,11 @@ A Schoolwork Mangement System based on Browser/Server architecture  implemented 
   
   * 5.Chrome Broswer ;   
   
-  * 6.Navicat Premium 12;[Buaaers can download here,and other simililar sotware may work also](s.buaa.edu.cn)
+  * 6.Navicat Premium 12;[Buaaers can download here,and other simililar sotware may work also](http://s.buaa.edu.cn)
   
+  *<font color=red>This project have been tested on Win10 System lol.</font>
 
-**All algorithms have been tested on python3.7 on Ubuntu16.04.**
+**This project have been tested on Win10 System lol.**
 
 **BTW,this is the homework for graduate course "Digital Image Processing" in Beihang University, 2020.**
 
