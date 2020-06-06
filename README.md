@@ -15,7 +15,8 @@ And,this project have been tested on Win10 System lol.
   
   * 6.Navicat Premium 12;     [Buaaers can download here,and other simililar sotware may work also.](http://s.buaa.edu.cn)
 
-**2.A simple demo video and other useful materials.** [Code:y9ga] (https://pan.baidu.com/s/1cmC-G-oS9vamoU8br6Hmtg)
+**2.A simple demo video and other useful materials.** 
+<br/>[Code:y9ga] (https://pan.baidu.com/s/1cmC-G-oS9vamoU8br6Hmtg)
 
 
 <br/><br/><br/>
