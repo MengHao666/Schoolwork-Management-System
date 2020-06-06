@@ -14,7 +14,7 @@ A Schoolwork Mangement System based on Browser/Server architecture  implemented 
   
   * 6.Navicat Premium 12;[Buaaers can download here,and other simililar sotware may work also](http://s.buaa.edu.cn)
   
-  <font color=red>This project have been tested on Win10 System lol.</font>
+  <font color=blue>This project have been tested on Win10 System lol.</font>
 
 **This project have been tested on Win10 System lol.**
 
