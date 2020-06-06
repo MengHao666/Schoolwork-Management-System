@@ -1,4 +1,4 @@
-# Schoolwork-Management-System
+# Schoolwork-Management-System(作业管理系统)
 A Schoolwork Mangement System based on Browser/Server architecture  implemented by jsp (java &amp; html).
 And,this project have been tested on Win10 System lol.
 
