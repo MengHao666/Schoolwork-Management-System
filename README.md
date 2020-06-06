@@ -17,10 +17,7 @@ And,this project have been tested on Win10 System lol.
   
   <font color=blue>This project have been tested on Win10 System lol.</font>
 
+**2.A simple demo video and some charts of Database**
+   [Video Link](http://s.buaa.edu.cn)
 
-
-**BTW,this is the homework for graduate course "Digital Image Processing" in Beihang University, 2020.**
-
-**Hope it could help ,and welcome for any corrections or improvements.**
-
-**Some codes here are copied or inspired by some open source codes! Thanks to them!**
+**Up to 1/3 codes here are copied from [Zhixin Chen](https://github.com/gouxiangchen)or inspired by others! Thanks to them!**
